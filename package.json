@@ -12,7 +12,7 @@
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "vue": "^2.6.10",
     "vue-router": "^3.1.5",
